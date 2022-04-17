@@ -1,0 +1,77 @@
+body {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.common {
+    background-color: aliceblue;
+   
+    position: absolute;
+}
+.header {
+    background-color: turquoise;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    position: absolute;
+}
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+}
+.mainbody {
+    background-color: aliceblue;
+    top: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 64px;
+}
+.footer {
+    background-color: grey;
+    bottom: 0px;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+}
+.subheader {
+    float: right;
+    
+}
+.heading {
+    font-size: 35;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    color: #556435
+}
+.title {
+    font-size: 30;
+    text-align: center;
+}
+.tableauPlaceholder {
+    text-align: center;
+}
+.tableauViz {
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.subheading {
+    font-size: 25;
+    text-decoration: none;
+}

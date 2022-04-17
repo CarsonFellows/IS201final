@@ -1,0 +1,25 @@
+.boldfont {
+    font-weight: 700;
+}
+.blackfont {
+    font-style: italic;
+    color: black;
+}
+.doublefont {
+    text-decoration:overline;
+}
+.border {
+    border: 2px;
+}
+.links {
+    color: blueviolet;
+}
+ul {
+    list-style-type: square;
+}
+ol {
+    list-style-type: lower-roman;
+}
+.serif {
+    font-family: serif;
+}
